@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+#theis is a random change line comment as i am learning to use git and github.
+
 # these are the publicly available "complete" sequences
 # https://www.gisaid.org/ has more (1200?), but they require you to sign up
 
